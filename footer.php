@@ -1,5 +1,5 @@
 <div id="zh_footer">
-    <h1>Footer</h1>
+    <p>Created by Zachary Hughes. Powered by <a href="https://wordpress.org/">WordPress</a>.</p>
 </div>
 </div>
 </body>

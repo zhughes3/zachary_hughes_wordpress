@@ -2,24 +2,13 @@
 
 
 
-<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+<div id="zh_sidebar" class="col-sm-3 col-sm-offset-1 blog-sidebar">
     <div class="sidebar-module sidebar-module-inset">
         <h4>About</h4>
-        <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+        <p>I am Zachary Hughes, a software developer currently based in Charlotte, NC. I just graduated from the University of North Carolina at Chapel Hill with my B.S. in Computer Science.</p>
     </div>
-    <div class="sidebar-module">
-        <h4>Archives</h4>
-        <ol class="list-unstyled">
-            <li><a href="#">March 2014</a></li>
-            <!-- More archive examples -->
-        </ol>
-    </div>
-    <div class="sidebar-module">
-        <h4>Elsewhere</h4>
-        <ol class="list-unstyled">
-            <li><a href="#">GitHub</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Facebook</a></li>
-        </ol>
+    <div>
+        <h4><img src="<?php echo get_stylesheet_directory_uri().'/assets/iconmonstr-paper-plane-1.svg'?>"></h4>
+        <p>To get in touch, send me an <a href="mailto:zhughes3@gmail.com">email</a>.</p>
     </div>
 </div><!-- /.blog-sidebar -->
