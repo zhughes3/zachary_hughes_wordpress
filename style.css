@@ -4,6 +4,24 @@ body {
     font-family: Palatino;
 }
 
+div.zh_post > h1#title {
+    font-weight: bold;
+}
+
+div.zh_post > h4#date {
+    font-style: oblique;
+}
+
+header {
+    overflow: hidden;
+    background-image: url("http://localhost:8888/wordpress/wp-content/themes/zachary_hughes_wordpress/assets/header_background.jpg");
+    margin-bottom: 10px;
+}
+
+li.nav-item a.nav-link {
+    background-color: white;
+}
+
 div#zh_header h1 {
     color: black;
 }
@@ -32,12 +50,8 @@ a:active {
     color: blue;
 }
 
-#zh_sidebar {
-    border-left: 1px solid black;
-}
-
 #zh_footer {
-    padding-top: 5px;
+    padding-top: 10px;
     width: 100%;
     border-top: 1px #a2a2a2 solid;
     text-align: center;

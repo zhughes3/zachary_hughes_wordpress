@@ -2,7 +2,7 @@
 
 
 
-<div id="zh_sidebar" class="col-sm-3 col-sm-offset-1 blog-sidebar">
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
     <div class="sidebar-module sidebar-module-inset">
         <h4>About</h4>
         <p>I am Zachary Hughes, a software developer currently based in Charlotte, NC. I just graduated from the University of North Carolina at Chapel Hill with my B.S. in Computer Science.</p>
