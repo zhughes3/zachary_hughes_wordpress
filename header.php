@@ -18,6 +18,7 @@
             <a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
                 <img src="<?php echo get_stylesheet_directory_uri().'/assets/me.png'?>" width="125" height="125" style="margin: 10px;">
             </a>
+            <p>Hi, I'm Zach&hellip;</p>
             <li class="nav-item">
                 <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/about/" role="button">About</a>
             </li>
@@ -25,9 +26,8 @@
                 <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/projects/" role="button">Projects</a>
             </li>
             <li class="nav-item">
-                <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/resume/"" role="button">Resume</a>
+                <a class="btn btn-lg nav-link" target="_blank" href="<?php echo get_stylesheet_directory_uri().'/assets/hughes_zachary_cv.pdf';?>" role="button">Resume</a>
             </li>
         </ul>
-
     </header>
 

@@ -3,8 +3,6 @@
 Created with help from https://blog.templatetoaster.com/create-wordpress-theme-scratch/
 
 ## Projects To Add
-1. CrowdSrc Drawing App
-2. PhotoGrammar
 3. DoggyDuty
 4. AndroidPhotoTagger
 5. STOR435 StudyGuide Using LaTeX
@@ -14,6 +12,8 @@ Created with help from https://blog.templatetoaster.com/create-wordpress-theme-s
 I will be posting the different UI iterations as I complete them. Sometimes, I will also add drawings to the UI to note 
 what I want to implement next.
 1. Homepage
+    - 12/24/2017
+        - ![12/24/2017](https://i.imgur.com/an6lKV7.png "12/24/2017 Homepage")
     - 12/22/2017
         - ![12/22/2017](https://i.imgur.com/ASxpQwp.png "12/22/2017 Homepage")
         

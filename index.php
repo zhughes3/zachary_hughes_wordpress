@@ -3,7 +3,7 @@
     <div id="zh_content" class="col-lg-8 col-sm-8 col-md-8 col-xs-12">
         <div class="row">
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-            <div class="card col-lg-12 col-sm-12 col-md-12 col-xs-12">
+            <div class="card col-lg-12 col-sm-12 col-md-12 col-xs-12" style="border-style: none;">
                 <div class="card-block zh_post">
                     <h1 id="title"><?php the_title();?></h1>
                     <h4 id="date">Posted on <?php the_date('F j, Y'); ?> at <?php the_time('g:i a'); ?></h4>

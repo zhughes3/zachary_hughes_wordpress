@@ -4,6 +4,16 @@ body {
     font-family: Palatino;
 }
 
+ul.nav p {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: dodgerblue;
+    text-shadow: 3px 2px #c0b283;
+    font-size: 40px;
+}
+
 div.zh_post > h1#title {
     font-weight: bold;
 }
@@ -20,6 +30,11 @@ header {
 
 code.git_clone {
     font-size: 70%;
+}
+
+li.nav-item {
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 li.nav-item a.nav-link {
