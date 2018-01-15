@@ -1,5 +1,9 @@
 # zachary_hughes_wordpress
 
+## Next
+Fix the header
+Logo ------------ NavIt NavIt NavIt
+
 ## UI Builds
 I will be posting the different UI iterations as I complete them. Sometimes, I will also add drawings to the UI to note 
 what I want to implement next.
