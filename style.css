@@ -4,8 +4,23 @@ body {
     font-family: Palatino;
 }
 
-ul.nav p {
-    padding-left: 10px;
+div.card {
+    border-width: 0;
+}
+
+div.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.flex-container {
+    list-style: none;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+div.nav p {
+    padding-left: 15px;
     margin-top: auto;
     margin-bottom: auto;
     font-weight: bold;

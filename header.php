@@ -8,29 +8,29 @@
     <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/bootstrap.js';?>"></script>
     <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(). '/js/events.js';?>"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url');?>">
+    <link rel="shortcut icon" href="http://localhost:8888/wordpress/wp-content/uploads/2018/01/favicon.ico" />
 </head>
 
 <body>
 
 <div class="container">
     <header>
-
-        <ul class="nav">
+        <div class="nav">
             <a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
                 <p>ZH</p>
             </a>
-            <li class="nav-item">
-                <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/about/" role="button">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/projects/" role="button">Projects</a>
-            </li>
-            <li class="nav-item">
-                <a class="btn btn-lg nav-link" target="_blank" href="<?php echo get_stylesheet_directory_uri().'/assets/hughes_zachary_cv.pdf';?>" role="button">Resume</a>
-            </li>
+            <ul class="flex-container list-inline">
+                <li class="nav-item list-inline-item">
+                    <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/about/" role="button">About</a>
+                </li>
+                <li class="nav-item list-inline-item">
+                    <a class="btn btn-lg nav-link" href="http://localhost:8888/wordpress/projects/" role="button">Projects</a>
+                </li>
+                <li class="nav-item list-inline-item">
+                    <a class="btn btn-lg nav-link" target="_blank" href="<?php echo get_stylesheet_directory_uri().'/assets/hughes_zachary_cv.pdf';?>" role="button">Resume</a>
+                </li>
+            </ul>
 
-
-
-        </ul>
+        </div>
     </header>
 
