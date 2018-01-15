@@ -1,13 +1,14 @@
 # zachary_hughes_wordpress
 
 ## Next
-Fix the header
-Logo ------------ NavIt NavIt NavIt
+Deploy
 
 ## UI Builds
 I will be posting the different UI iterations as I complete them. Sometimes, I will also add drawings to the UI to note 
 what I want to implement next.
 1. Homepage
+    - 01/15/2017
+        - ![01/15/2017](https://i.imgur.com/poiZO7B.png "01/15/2017 Homepage")
     - 12/24/2017
         - ![12/24/2017](https://i.imgur.com/an6lKV7.png "12/24/2017 Homepage")
     - 12/22/2017
